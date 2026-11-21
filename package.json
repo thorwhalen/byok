@@ -6,9 +6,9 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thorwhalen/byok.git"
+    "url": "git+https://github.com/addaix/byok.git"
   },
-  "homepage": "https://github.com/thorwhalen/byok#readme",
+  "homepage": "https://github.com/addaix/byok#readme",
   "keywords": [
     "byok",
     "bring-your-own-key",
